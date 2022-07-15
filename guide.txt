@@ -1,0 +1,9 @@
+1. First create a DB name - apinodejspostgres 
+2. After this create a user table with following schema
+    id : bigint
+    name : varchar(60)
+    email : varchar(60)
+    username : varchar(60)
+    password : varchar(60) 
+3. After this remember your password and user
+5. Enjoy 👍
